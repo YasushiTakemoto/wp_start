@@ -1,0 +1,16 @@
+.cats-list {
+    list-style-type: none;
+}
+
+.cats-list .cat {
+    margin: 16px;
+    margin: 1rem;
+}
+
+.container .cats {
+    margin: 0;
+}
+
+h1{
+    color: #015;
+}
